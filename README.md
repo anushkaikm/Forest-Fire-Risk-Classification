@@ -79,8 +79,8 @@ This project is licensed under the [MIT License](LICENSE).
 We would like to express our gratitude to the following individuals and organizations for their support and contributions to this project:
 
 - **San Francisco State University**: For providing the platform and resources to conduct this project as part of the CSC 859 course, "AI Ethics and Explainability."
-- **Professor [Insert Professor’s Name]**: For their invaluable guidance, feedback, and support throughout the project.
-- **Teaching Assistant [Insert Name]**: For assisting with technical challenges and ensuring the quality of our model development.
+- **Professor [Dragutin Petkovic]**: For their invaluable guidance, feedback, and support throughout the project.
+- **Teaching Assistant [Dave Daly]**: For assisting with technical challenges and ensuring the quality of our model development.
 - **UCI Machine Learning Repository**: For the Montesinho Natural Park dataset that served as the foundation for this project.
 - **Team 4 Members**:
   - Anushka Mondal: For leading coding efforts, organizing meetings, and ensuring the project stayed on track.
