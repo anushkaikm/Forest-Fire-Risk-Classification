@@ -74,10 +74,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Here’s an **Acknowledgements** section for your README file:
-
----
-
 ## Acknowledgements 🙏
 
 We would like to express our gratitude to the following individuals and organizations for their support and contributions to this project:
